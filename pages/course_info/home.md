@@ -3,7 +3,7 @@ title: "Course Information"
 keywords:
 sidebar: course_info_sidebar
 permalink: about.html
-summary: "lorem ipsum"
+summary: "This page contains course-specific information for Prof. Libatique's section of GREK 101 in Fall 2021. For the textbook, use the 'textbook' link above!"
 ---
 
 ***

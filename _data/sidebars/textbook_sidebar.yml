@@ -1,0 +1,92 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: GREK 101-102
+  version:
+  folders:
+
+  - title: Front Matter
+    output: web
+    folderitems:
+
+    - title: Landing Page
+      url: /index.html
+      output: web
+      type: homepage
+
+    - title: Credits
+      url: /fm-credits.html
+      output: web
+
+    - title: Abbreviations
+      url: /fm-abbreviations.html
+      output: web
+
+    - title: Notes
+      url: /fm-notes.html
+      output: web
+
+    - title: Resources
+      url: /fm-resources.html
+      output: web
+
+  - title: 01 - Nouns, Adjectives, and Pronouns
+    output: web
+    folderitems:
+
+    - title: Nouns Overview
+      url: /mydoc_release_notes_60.html
+      output: web
+
+    - title: Adjectives Overview
+      url: /mydoc_release_notes_50.html
+      output: web
+
+    - title: Pronouns & Pronominal Adjs. Overview
+      url: /mydoc_release_notes_50.html
+      output: web
+
+  - title: 02 - Verbs
+    output: web
+    folderitems:
+
+    - title: Verb Overview
+      url: /mydoc_about_ruby_gems_etc.html
+      output: web
+
+    - title: Infinitives
+      url: /mydoc_install_jekyll_on_mac.html
+      output: web, pdf
+
+    - title: Voice
+      url: /mydoc_install_jekyll_on_windows.html
+      output: web
+
+  - title: Reference
+    output: web
+    folderitems:
+
+      - title: Greek-English Glossary
+        url: /greek-english-glossary.html
+        output: web
+
+      - title: English-Greek Glossary
+        url: /english-greek-glossary.html
+        output: web
+
+      - title: Nouns Master Paradigms
+        url: /nouns-master-paradigms.html
+        output: web
+
+      - title: Adjectives Master Paradigms
+        url: /adjs-master-paradigms.html
+        output: web
+
+      - title: Pronouns/Pronominal Adjs. Master Paradigms
+        url: /pron-master-paradigms.html
+        output: web
+
+      - title: Verbs Master Paradigms
+        url: /verbs-master-paradigms.html
+        output: web
