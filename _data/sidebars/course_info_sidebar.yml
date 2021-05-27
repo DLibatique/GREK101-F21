@@ -1,0 +1,32 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Course Info
+  version:
+  folders:
+
+  - title: Course Info
+    output: web
+    folderitems:
+
+    - title: Home
+      url: /about.html
+      output: web
+      type: homepage
+
+    - title: Resources
+      url: /resources.html
+      output: web
+
+    - title: Policies
+      url: /policies.html
+      output: web
+
+    - title: Grading
+      url: /grading.html
+      output: web
+
+    - title: Schedule
+      url: /schedule.html
+      output: web

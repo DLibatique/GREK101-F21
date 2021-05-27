@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Intro to Greek 1!"
-keywords: homepage
-sidebar: mydoc_sidebar
-permalink: index.html
-summary: This is the landing page for the course website/textbook for GREK 101-01 in Fall 2021 at the College of the Holy Cross.
+title: "Course Information"
+keywords:
+sidebar: course_info_sidebar
+permalink: about.html
+summary: "lorem ipsum"
 ---
 
 ***
