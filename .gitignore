@@ -7,3 +7,4 @@ _pdf
 vendor/
 .bundle/
 .jekyll-cache/
+_config_local.yml
