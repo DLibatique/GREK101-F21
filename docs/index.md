@@ -5,8 +5,8 @@ permalink: /
 nav_order: 0
 ---
 
-# GREK 101 Textbook
+# GREK 101 - Fall 2021
 
 ***
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 2021, taught by Prof. Libatique. Use the navigation menu to the left (or above on mobile) to see [information specific to our course](/course_info) or the [textbook for the course](/textbook).
