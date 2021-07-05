@@ -6,6 +6,9 @@ nav_order: 2
 parent: Course Information
 ---
 
+# GRADING DETAILS TBD -- INFORMATION ON THIS PAGE IS A PLACEHOLDER FROM GREK 102 IN SPRING 2021
+{: .no_toc }
+
 # Grading
 {: .no_toc }
 

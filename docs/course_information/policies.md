@@ -33,7 +33,7 @@ Needless to say, these are unprecedented times which call for extraordinary meas
 
 ## Academic Conduct
 
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, assignmentsor exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
+You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, assignments or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment to failure for the entire course.
 
 [Return to top.](#top)
 
