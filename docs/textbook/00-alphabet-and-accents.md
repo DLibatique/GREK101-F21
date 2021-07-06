@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alphabet and Accents
-permalink: /alphabet-and-accents
+permalink: /textbook/00
 nav_order: 0
 parent: Textbook
 ---
@@ -54,9 +54,9 @@ The 24 letters of the Greek alphabet are as follows:
 | psi | ψ | Ψ | *ps* as in "u**ps**ide" |
 | omega | ω | Ω | *oh* as in "b**oa**t" |
 
-And here is a video that shows how to draw each of these characters:
+And here is a video from Carleton College Classics that shows how to draw each of these characters. The video should begin at 3:19, where the demonstrations of writing each letter begin, but you can optionally watch the first part of the video for some context on the Greek alphabet.
 
-***VIDEO HERE***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/peaWbZZHDdA?start=199" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some ideas to note:
 
@@ -144,3 +144,13 @@ An **enclitic** is a word or syllable that affects the accentuation of the word 
 ### Practice Opportunity 2
 
 Pronoune the same words from [Practice Opportunity 1](#practice-opportunity-1) knowing what you now know about accents.
+
+***
+
+## BONUS: Typing Greek
+
+Because of the breathing and accent systems, typing ancient Greek is not necessarily as easy as typing English. If you would prefer to type up assignments rather than handwrite, though, a great resource at the intro level is [typegreek.com](http://www.typegreek.com). Using this entry box and the site's [alphabet key](http://www.typegreek.com/alphabet.key/), you should be able to type what you want in Latin letters and punctuation marks, and then you can copy and paste the transformed text into your document or submission box on Canvas.
+
+If you intend to progress in ancient Greek beyond the intro level, I would recommend learning about ancient Greek keyboards that you can use on your computer to type ancient Greek directly, rather than needing to go to typegreek.com and copying and pasting. The specific keyboard(s) that you can use, however, will depend on whether you're using a Mac or a Windows computer:
+* For Mac users, I would recommend looking into [Sophokeys Polytonic Greek](https://www.benjaminblonder.org/sophokeys/).
+* Windows users can use the native Greek polytonic keyboard. See [this guide](http://www.dramata.com/Ancient%20polytonic%20Greek%20in%20Windows.pdf) for Windows systems before Windows 10 and [this guide](https://www.ctsfw.edu/wp-content/uploads/2016/02/Greek-Unicode-Keyboard-Input-Windows-10.pdf) for Windows 10 in particular.
