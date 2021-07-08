@@ -67,8 +67,17 @@ Note the **four** parts of the entry:
 
 Greek is an inflected language and relies on word endings to reveal how a word functions within the sentence. The act of changing the ending on a noun is called **declension**; we **decline** a noun (i.e., change its endings) to reflect its different cases and numbers.
 
-**Declension** can *also* refer to groups of nouns that share similar ending patterns to reflect those different cases and numbers. There are **three** major declensions, each with subsections:
+**Declension** can *also* refer to *groups* of nouns that share similar ending patterns to reflect those different cases and numbers. There are **three** major declensions, each with subsections:
 
-* The **alpha/eta declension** (also called **first declension**) exhibits a large number of alphas and/or etas in its endings and includes feminine and masculine nouns.
+* The **alpha/eta declension** (also called **first declension**) exhibits a large number of alphas and/or etas in its endings and includes feminine and masculine nouns. Subsections of this declension include short alpha, long alpha, and eta variants.
 * The **omicron declension** (also called **second declension**) exhibits a large number of omicrons in its endings and includes nouns of all three genders.
 * The **consonant declension** (also called **third declension**) exhibits wide variety in its endings and includes nouns of all three genders.
+
+You can determine the declension to which a noun belongs based on its **genitive singular ending**:
+* first declension nouns have a genitive singular in **-ας or -ης**
+* second declension nouns have a genitive singular in **-ου**
+* third declension nouns have a genitive singular in **-ος, -εως, or -ους**
+
+This information is as important to memorize with the dictionary entry as the noun's gender, since the endings that can be attached to the noun in question depend wholly on the declension to which the noun belongs.
+
+Identifying the declension is also important for understanding the **noun's stem**. To determine the stem to which we need to add the noun endings, we look to the noun's genitive singular form and take off its ending. (Note: this is a general rule that will have exceptions, notably in third declension nouns with genitive singulars in -εως or -ους. We'll deal with those as the time comes!)
