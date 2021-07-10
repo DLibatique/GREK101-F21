@@ -187,10 +187,10 @@ Accents may or may not occupy different positions in the same word across its di
 
 Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
 
-1. κελευουσιν (recessive accent)
+1. δεικνυασι (recessive accent)
 2. πολιτης (persistent accent on penult, long iota)
 3. πολιται (persistent accent on penult, long iota)
-4. δεικνυασιν (recessive accent)
+4. κελευει (recessive accent)
 5. first word in ὁδος στενή (persistent accent on ultima)
 6. first word in στενη γε (persistent accent on ultima, γε is enclitic)
 7. θαλαττα (persistent accent on antepenult, short final alpha)
