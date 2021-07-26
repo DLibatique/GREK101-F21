@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Nouns 1 - Nom., Gen., Article
-permalink: /textbook/01
-nav_order: 1
-parent: Textbook
+title: Nouns - Nom., Gen., and Articles
+permalink: /textbook/nouns/nom-gen-art
+nav_order: 0
+parent: Substantives and Adjectives
+grand_parent: Textbook
 ---
 
 # Nouns - Nominative, Genitive, Article

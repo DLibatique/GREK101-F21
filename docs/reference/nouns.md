@@ -2,7 +2,7 @@
 layout: page
 title: Nouns
 permalink: /reference/nouns
-nav_order: 0
+nav_order: 2
 parent: Reference
 ---
 

@@ -19,7 +19,7 @@ parent: Textbook
 
 ## Alphabet
 
-The ancient Greek alphabet consists of 24 letters, either **vowels** or **consonants**. Every Greek word must contain at least one vowel sound, whether it consists of a single letter or two letters that form a **diphthong** (on which see below), and the number of vowel sounds in a word indicates the number of syllables that the word contains.
+The ancient Greek alphabet consists of 24 letters, either **vowels** or **consonants**. Every Greek word must contain at least one vowel sound, whether it consists of a single letter or two letters that form a **diphthong** (on which see below), and the number of vowel sounds in a word indicates the number of **syllables** that the word contains.
 
 See this video by Prof. Katie DeBoer of Xavier University on how each of the letters is pronounced, and then reinforce your understanding with the text and exercise that follow:
 
@@ -102,7 +102,7 @@ Vowels may also be combined into **diphthongs**, a single vowel sound composed o
 * ου = *ooh* as in "tr**oo**p"
 * υι = *wee* as in "s**wee**t"  
 
-Diphthongs are considered long in pronunciation, but there are two specific diphthongs that will count as **short** for the purpose of accentuation (on which see below): the final -οι or -αι of the 1st and 2nd declension nominative plural. ("1st and 2nd declension nominative plural" will likely not make *any* sense to you right now -- don't worry, you'll learn more about it in the next module!)
+Diphthongs are considered long in pronunciation, but there are two specific diphthongs that will count as **short** for the purpose of accentuation (on which see below): the final -οι or -αι of the 1st and 2nd declension nominative plural. ("1st and 2nd declension nominative plural" will likely not make *any* sense to you right now -- don't worry, you'll learn more about it soon!)
 
 ### Breathing marks
 {: .no_toc }
@@ -174,7 +174,7 @@ An **enclitic** is a word or syllable that affects the accentuation of the word 
 
 Accents may or may not occupy different positions in the same word across its different inflections, and accents can sometimes change entirely from acutes to circumflexes, etc. Here are some general rules for your information, but keep in mind that we will reinforce and augment these rules as the year wears on; do not worry if they don't make total sense right now.
 
-* An accent is **persistent** if it wants to occupy the same syllable of the word (antepenult, penult, or ultima) in all of its inflected forms. This is the case for all **nouns** and **adjectives**, including participles.
+* An accent is **persistent** if it wants to occupy the same syllable of the word (antepenult, penult, or ultima) in all of its inflected forms. This is the case for all **nouns** and **adjectives**, including most participles.
   * If a word is accented with an acute on the antepenult and its ultima is long (either a long vowel or a diphthong), the accent will be pulled to the penult. So, note for example the position of the accent in Κύκλωπος versus its position in Κυκλώπων.
   * If a word is accented with an acute on a long penult (either a long vowel or a diphthong) but its ultima is short (either a short vowel or the final diphthong -οι or -αι), then that acute will transform into a circumflex. So, note for example the acute on πείρᾳ but the circumflex on πεῖραι. (More on these changing endings on the same word in the next module.)
 
