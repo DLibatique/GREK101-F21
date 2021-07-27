@@ -29,13 +29,24 @@ To that end, for the most, if not all, of this semester, we will be working prim
 
 We will use these two verbs primarily in the coming lessons to demonstrate different verb forms and translations, so commit to memory the bolded forms above.
 
+We will also use the **bolded** versus `coded` scheme in other contexts as well, so be attuned to that -- **bold** encourages memorization, while `code` is merely for your information.
+
 ***
 
 ## The Aorist
 
-As discussed in [the verb overview](overview#verb-aspects), the **aorist tense** indicates a
+As discussed in [the verb overview](overview#verb-aspects), the **aorist tense** is used to indicate an instantaneous or completed verbal action that occurred in the past. Here are some English examples:
+
+* He sighed.
+* They arrived.
+
+Note how these forms of the verb indicate a one-and-done event, rather than drawing attention to a process (e.g., "he *was sighing*" or "they *were arriving*"); for verbal actions that occurred over a period of time in the past, we would use the imperfect tense, which we'll learn about in the next unit.
+
+In Greek, the aorist tense of a verb is formed using the **third** and **sixth** principal parts: the **third** helps us form the **active voice** ("she showed") and **middle voice** ("she showed for herself"), while the **sixth** helps us form the **passive voice** ("she was shown") voice.
 
 ### First and Second Aorists
+
+The **third principal part** also indicates a very important distinction between two kinds of aorists: the **first aorist** (also known as a "weak aorist") and the **second aorist** (also known as a "strong aorist").
 
 ### Augments
 

@@ -35,7 +35,9 @@ In each of these sentences, the verb is bolded and serves as the anchor of the e
 
 Verbs can appear in different forms, including **infinitives** (verbal nouns, like "to make" or "to do") or **participles** (verbal adjectives, like "making" or "done"). For this module, however, we'll be focusing mostly on verbs that are **conjugated** (more on this in a bit).
 
-As discussed in [the page on inflection](../inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through the verb's ending and the verb stem to which that ending is attached. This is merely a broad overview of verbal aspects; we will reinforce these ideas as the year continues, so do not worry if you're overwhelmed by all of these ideas now.
+As discussed in [the page on inflection](../inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through: 1) the verb's **ending** and 2) the verb **stem** to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb's action and how many of the actor there are.
+
+The following is a broad overview of verbal aspects that we can identify through a verb's stem and ending. We will reinforce these ideas as the year continues, so do not worry if you're overwhelmed by all of these ideas now.
 
 1. **person**. The **person** of a verb indicates the relationship of the speaker of the sentence to the subject.
     * **1st person** means that the speaker *is* the subject or is part of a group that serves as the subject. This is most often indicated through pronouns like "I" or "me" in the singular or "we" or "us" in the plural.
