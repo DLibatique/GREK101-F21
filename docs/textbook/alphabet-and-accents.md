@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alphabet and Accents
-permalink: /textbook/00
+permalink: /textbook/alphabet-and-accents
 nav_order: 0
 parent: Textbook
 ---

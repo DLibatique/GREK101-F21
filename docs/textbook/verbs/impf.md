@@ -1,8 +1,8 @@
 ---
 layout: page
-title: First Aorist and Imperfect
-permalink: /textbook/verbs/first-aorist-and-imperfect
-nav_order: 1
+title: Imperfect
+permalink: /textbook/verbs/imperfect
+nav_order: 2
 parent: Verbs
 grand_parent: Textbook
 ---
