@@ -53,7 +53,7 @@ There are two major kinds of inflection in Greek: **conjugation** and **declensi
 
 ### Conjugation
 
-**Conjugation** is the act of changing the endings of a **verb** to reflect different aspects of that verb, like who performs the action, when the action occurs, and whether the subject performs or receives the verb's action. More on this in Module 1.
+**Conjugation** is the act of changing the endings of a **verb** to reflect different aspects of that verb, like who performs the action, when the action occurs, and whether the subject performs or receives the verb's action. When we **conjugate** a verb, we apply various endings to different forms of a verbal stem to reflect those aspects. More on this in Module 1.
 
 ### Declension
 

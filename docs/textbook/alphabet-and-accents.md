@@ -172,11 +172,11 @@ An **enclitic** is a word or syllable that affects the accentuation of the word 
 
 ### Persistence versus Recession
 
-Accents may or may not occupy different positions in the same word across its different inflections, and accents can sometimes change entirely from acutes to circumflexes, etc. Here are some general rules for your information, but keep in mind that we will reinforce and augment these rules as the year wears on; do not worry if they don't make total sense right now.
+Accents may or may not occupy different positions in the same word across its different [inflections](inflection), and accents can sometimes change entirely from acutes to circumflexes, etc. Here are some general rules for your information, but keep in mind that we will reinforce and augment these rules as the year wears on; do not worry if they don't make total sense right now.
 
 * An accent is **persistent** if it wants to occupy the same syllable of the word (antepenult, penult, or ultima) in all of its inflected forms. This is the case for all **nouns** and **adjectives**, including most participles.
   * If a word is accented with an acute on the antepenult and its ultima is long (either a long vowel or a diphthong), the accent will be pulled to the penult. So, note for example the position of the accent in Κύκλωπος versus its position in Κυκλώπων.
-  * If a word is accented with an acute on a long penult (either a long vowel or a diphthong) but its ultima is short (either a short vowel or the final diphthong -οι or -αι), then that acute will transform into a circumflex. So, note for example the acute on πείρᾳ but the circumflex on πεῖραι. (More on these changing endings on the same word in the next module.)
+  * If a word is accented with an acute on a long penult (either a long vowel or a diphthong) but its ultima is short (either a short vowel or the final diphthong -οι or -αι), then that acute will transform into a circumflex. So, note for example the acute on πείρᾳ but the circumflex on πεῖραι.
 
 * An accent is **recessive** if it wants to occupy the antepenult in a word with three or more syllables or the penult in a two-syllable word. This is the case for most **verbal** forms, though there will be exceptions that we'll note in the modules to follow.
   * The same two rules of moving accents listed above under persistent accents apply to recessive accents too.
@@ -188,8 +188,8 @@ Accents may or may not occupy different positions in the same word across its di
 Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
 
 1. δεικνυασι (recessive accent)
-2. πολιτης (persistent accent on penult, long iota)
-3. πολιται (persistent accent on penult, long iota)
+2. πολιτης (persistent accent on penult, long iota, long ultima)
+3. πολιται (persistent accent on penult, long iota, short ultima)
 4. κελευει (recessive accent)
 5. first word in ὁδος στενή (persistent accent on ultima)
 6. first word in στενη γε (persistent accent on ultima, γε is enclitic)

@@ -84,6 +84,23 @@ The act of identifying the five aspects of a conjugated verb is called **parsing
 
 ***
 
+### Practice Opportunity
+
+In each of the following English sentences, identify the finite/conjugated verb and then parse all aspects *except* mood according to the details above. For example:
+
+* I went to the store.
+    * "went", 1st singular aorist active
+* You (pl.) were going to bed.
+    * "were going", 2nd plural imperfect active
+
+1. He will arrive tomorrow.
+2. You (sg.) ordered French fries.
+3. You (sg.) ordered French fries for yourself.
+4. We are reading the books.
+5. The documents were being shown to me.
+
+***
+
 ## Dictionary Entry
 
 When you are learning verbs in ancient Greek, you must memorize the way that the verb's entry appears in a dictionary, such as the [master vocabulary list](../../vocabulary/master) for this very textbook. You'll notice that entries for verbs have seven sections: the first six, divided by commas, are called **principal parts** and the seventh, often after a dash or colon, is the definition of the verb in English.
@@ -125,17 +142,17 @@ Many verbs in Greek may be prefixed with a preposition to form new verbs. For ex
 
 * ἐπιδείκνυμι, ἐπιδείξω, ἐπέδειξα, ἐπιδέδειχα, ἐπιδέδειγμαι, ἐπεδείχθην, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
 
-Note how we simply attach the ἐπί to the front of the verb, but its ι drops off in forms that begin with a vowel through a process called **elision**. If the final vowel of a prefix is elided by a verb form that begins with a rough breathing, the final consonant of the prefix may be aspirated. For example, if ἐπί were attached to a verb that begins with ἁ, the aspiration of the rough breathing would interact with the π to form ἐφα- (rather than ἐπα).
+Note how we simply attach the ἐπί to the front of the verb, but its ι drops off in forms that begin with a vowel through a process called **elision**. If the final vowel of a prefix is elided by a verb form that begins with a rough breathing, the final consonant of the prefix may be aspirated. For example, if ἐπί were attached to a verb that begins with ἁ, the aspiration of the rough breathing would interact with the π to form ἐφα- (rather than ἐπα-).
 
 ***
 
 ## Accentuation
 
-Note that the accent on a finite verb form is **recessive**; recall from [the unit on the alphabet and accents](../alphabet-and-accents#persistence-versus-recession) that this means that the accent on a finite verb form wants to occupy the farthest-left syllable that it can. In 3+ syllable finite verb forms, this means the antepenult (unless pulled to the penult by a long ultima); and in 2 syllable forms, the penult. Note, for example, the following forms of the same verb:
+Note that the accent on a finite verb form is **recessive**. Recall from the unit [on the alphabet and accents](../alphabet-and-accents#persistence-versus-recession) that this means that the accent on a finite verb form wants to occupy the farthest-left syllable that it can. In 3+ syllable finite verb forms, this means the antepenult (unless pulled to the penult by a long ultima); and in 2 syllable forms, the penult. Note, for example, the following forms of the same verb:
 
 * ἐκέλευσε
-* κελεύω
+* κελεύει
 
-In the first form, the accent (an acute) occupies the antepenult since the ultima, -ε, is short. In the second form, however, the acute accent gets pulled to the penult due to the long ultima, -ω.
+In the first form, the accent (an acute) occupies the antepenult since the ultima, -ε, is short. In the second form, however, the acute accent gets pulled to the penult due to the long ultima, -ει.
 
 Although the accent on finite verb forms is recessive, note that the accents on participles and some infinitives are persistent. More on this later.
