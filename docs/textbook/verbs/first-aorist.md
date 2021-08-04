@@ -40,7 +40,7 @@ As discussed in [the verb overview](overview#verb-aspects), the **aorist tense**
 * He sighed.
 * They arrived.
 
-Note how these forms of the verb indicate a one-and-done event, rather than drawing attention to a process (e.g., "he *was sighing*" or "they *were arriving*"); for verbal actions that occurred over a period of time in the past, we would use the imperfect tense, which we'll learn about in the next unit.
+Note how these forms of the verb indicate a one-and-done event, rather than drawing attention to a process (e.g., "he *was sighing*" or "they *were arriving*"); for verbal actions like these that occurred over a period of time in the past, we would use the imperfect tense, which we'll learn about soon.
 
 In Greek, the aorist tense of a verb is formed using the **third** and **sixth** principal parts: the **third** helps us form the **active voice** ("she showed") and **middle voice** ("she showed for herself"), while the **sixth** helps us form the **passive voice** ("she was shown").
 
@@ -48,10 +48,14 @@ In Greek, the aorist tense of a verb is formed using the **third** and **sixth**
 
 The **third principal part** also indicates a very important distinction between two kinds of aorists: the **first aorist** (also known as a "weak aorist") and the **second aorist** (also known as a "strong aorist"). The distinction between the two dictates what sets of endings we can use to conjugate the verb in the aorist active and middle voices. This affects *only* the verbal forms that are built on the **third principal part**.
 
-* A **first aorist** has a third principal part that ends in -α.
-* A **second aorist** has a third principal part that ends in -ον.
+* A **first aorist** has a third principal part that ends in -α or -άμην.
+* A **second aorist** has a third principal part that ends in -ον or -όμην.
 
-We will focus solely on first aorists for this unit; we'll learn about second aorists in a later unit.
+Note how our two verbs above (κελεύω and δείκνυμι) both have third principal parts that end in -α (ἐκέλευσα and ἔδειξα respectively), which makes them both **first aorists**.
+
+The **first aorist** is also known as a **sigmatic aorist**, so called because of the usual presence of a sigma (σ) or "s" sound before the -α; note, for example, the sigma before the -α in ἐκέλευσα. This idea applies even if you don't necessarily see the letter sigma: ἔδειξα is considered sigmatic because the consonant before the -α, ξ, is a combination of a "k" and "s" sound (ἔδειξα: e-dayk-sa). This will also happen with the letter ψ, which is a combination of a "p" and "s" sound.
+
+We will focus solely on first aorists for this unit; we'll learn about second aorists later.
 
 ### Augments
 
@@ -162,7 +166,7 @@ So, when we apply these rules to κελεύω:
 
 1. Our sixth principal part is ἐκελεύσθην, so when we take off the -ην, we are left with the stem: **ἐκελευσθ-**.  
 2. Add the appropriate endings: -η for 3rd singular and -ησαν for 3rd plural.
-3. In the singular, the accent will occupy the penult, pulled forward from the antepenult by the long ultima. In the plural, the accent will occupy the antepenult, since the ultima is short.
+3. In the singular, the accent will occupy the penult, pulled forward from the antepenult by the long ultima (-η). In the plural, the accent will occupy the antepenult, since the ultima (the -αν of the -ησαν ending) is short.
 
 | Voice | Singular | Plural |
 | ----- | ----- | ----- |
@@ -176,8 +180,8 @@ The tense is still aorist (i.e., a simple past tense), and the same subjects are
 * ἐκελεύσθησαν: "they **were ordered**"
 
 Envision the voice of a verb indicating the direction of an arrow between the subject and the verb.
-* In the **active** voice, the arrow points from the subject towards the verb: the subject performs the verb and makes that action happen.
-* In the **passive** voice, the arrow points from the verb to the subject: the verb *happens to* the subject, and the subject receives the verb's action.
+* In the **active** voice, the arrow points from the subject towards the verb: the subject performs the verb and makes that action happen (ἐκέλευσεν: he ordered).
+* In the **passive** voice, the arrow points from the verb to the subject: the verb *happens to* the subject, and the subject receives the verb's action (ἐκελεύσθη: he was ordered).
 
 ***
 

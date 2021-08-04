@@ -2,7 +2,7 @@
 layout: page
 title: Imperfect
 permalink: /textbook/verbs/imperfect
-nav_order: 2
+nav_order: 3
 parent: Verbs
 grand_parent: Textbook
 ---
