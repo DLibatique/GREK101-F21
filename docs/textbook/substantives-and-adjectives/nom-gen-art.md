@@ -3,7 +3,7 @@ layout: page
 title: Nouns - Nom., Gen., and Articles
 permalink: /textbook/nouns/nom-gen-art
 nav_order: 0
-parent: Substantives and Adjectives
+parent: 02 - Substantives and Adjectives
 grand_parent: Textbook
 ---
 

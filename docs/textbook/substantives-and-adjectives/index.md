@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Substantives and Adjectives
+title: 02 - Substantives and Adjectives
 permalink: /textbook/subst-and-adjs
 nav_order: 3
 parent: Textbook

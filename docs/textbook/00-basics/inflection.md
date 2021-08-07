@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Inflection
-permalink: /textbook/inflection
+permalink: /textbook/basics/inflection
 nav_order: 1
-parent: Textbook
+parent: 00 - Basics
+grand_parent: Textbook
 ---
 
 # Inflection

@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Alphabet and Accents
-permalink: /textbook/alphabet-and-accents
+permalink: /textbook/basics/alphabet-and-accents
 nav_order: 0
-parent: Textbook
+parent: 00 - Basics
+grand_parent: Textbook
 ---
 
 # Alphabet and Accents

@@ -3,7 +3,7 @@ layout: page
 title: Verbs Overview
 permalink: /textbook/verbs/overview
 nav_order: 0
-parent: Verbs
+parent: 01 - Verbs
 grand_parent: Textbook
 ---
 
@@ -35,7 +35,7 @@ In each of these sentences, the verb is bolded and serves as the anchor of the e
 
 Verbs can appear in different forms, including **infinitives** (verbal nouns, like "to make" or "to do") or **participles** (verbal adjectives, like "making" or "done"). For this module, however, we'll be focusing mostly on verbs that are **conjugated** (more on this in a bit).
 
-As discussed in [the page on inflection](../inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through: 1) the verb's **ending** and 2) the verb **stem** to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb's action and how many of the actor there are.
+As discussed in [the page on inflection](../basics/inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through: 1) the verb's **ending** and 2) the verb **stem** to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb's action and how many of the actor there are.
 
 The following is a broad overview of verbal aspects that we can identify through a verb's stem and ending. We will reinforce these ideas as the year continues, so do not worry if you're overwhelmed by all of these ideas now.
 
@@ -61,7 +61,7 @@ The following is a broad overview of verbal aspects that we can identify through
 4. **voice**. The **voice** of a verb indicates the relationship of the subject to the action of the verb.
   * The verb's voice is **active** if the subject *performs* the action of the verb. For example, "The boy **loves** the girl." The boy performs the action of loving.
   * The verb's voice is **passive** if the subject *receives* the action of the verb. For example, "The girl **is loved** by the boy." The girl *receives* the action of loving, even though she is the subject, so the verb is considered passive.
-  * The verb's voice is **middle** if the subject either performs the verb's action with some self-interested motive or performs the action upon themself. It's often difficult to express the middle voice in English, but often some form of a reflexive pronoun (e.g., "myself", "himself", "ourselves") can help. For example, "He *speaks for himself*" or "We *know ourselves*."
+  * The verb's voice is **middle** if the subject either performs the verb's action with some self-interested motive or performs the action upon themself. It's often difficult to express the middle voice in English, but often some form of a reflexive pronoun (e.g., "myself", "himself", "ourselves") can help. For example, "He *speaks (for himself)*" or "We *know ourselves*."
 <br><br>
 5. **mood**. The **mood** of a verb indicates how the speaker thinks about the quality of the verb's action.
   * **indicative** mood indicates that the speaker considers the verb's action a definite fact.
@@ -148,7 +148,7 @@ Note how we simply attach the ἐπί to the front of the verb, but its ι drop
 
 ## Accentuation
 
-Note that the accent on a finite verb form is **recessive**. Recall from the unit [on the alphabet and accents](../alphabet-and-accents#persistence-versus-recession) that this means that the accent on a finite verb form wants to occupy the farthest-left syllable that it can. In 3+ syllable finite verb forms, this means the antepenult (unless pulled to the penult by a long ultima); and in 2 syllable forms, the penult. Note, for example, the following forms of the same verb:
+Note that the accent on a finite verb form is **recessive**. Recall from the unit [on the alphabet and accents](../basics/alphabet-and-accents#persistence-versus-recession) that this means that the accent on a finite verb form wants to occupy the farthest-left syllable that it can. In 3+ syllable finite verb forms, this means the antepenult (unless pulled to the penult by a long ultima); and in 2 syllable forms, the penult. Note, for example, the following forms of the same verb:
 
 * ἐκέλευσε
 * κελεύει

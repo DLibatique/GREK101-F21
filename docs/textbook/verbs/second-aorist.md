@@ -3,7 +3,7 @@ layout: page
 title: Second Aorist
 permalink: /textbook/verbs/second-aorist
 nav_order: 2
-parent: Verbs
+parent: 01 - Verbs
 grand_parent: Textbook
 ---
 
@@ -45,7 +45,7 @@ The conjugation of the second aorist is very similar to the conjugation of the f
 Here are the steps to conjugate a second aorist:
 1. To get the verb stem, take the -ον off the third principal part.  
 2. Add the appropriate ending to indicate the appropriate person, number, and voice.  
-3. Apply a recessive accent based on the rules laid out [in the unit on accents](../alphabet-and-accents#accents).
+3. Apply a recessive accent based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
 
 #### (2nd) Aorist Active Endings
 
@@ -53,7 +53,7 @@ Here are the steps to conjugate a second aorist:
 | ----- | ----- | ----- |
 | 1st | `-ον` | `-ομεν` |
 | 2nd | `-ες` | `-ετε`|
-| 3rd | **-ε(ν)**\* | **-ον** |
+| 3rd | **-ε(ν)** | **-ον** |
 
 #### (2nd) Aorist Middle Endings
 

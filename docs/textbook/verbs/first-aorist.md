@@ -3,7 +3,7 @@ layout: page
 title: First Aorist
 permalink: /textbook/verbs/first-aorist
 nav_order: 1
-parent: Verbs
+parent: 01 - Verbs
 grand_parent: Textbook
 ---
 
@@ -53,7 +53,7 @@ The **third principal part** also indicates a very important distinction between
 
 Note how our two verbs above (κελεύω and δείκνυμι) both have third principal parts that end in -α (ἐκέλευσα and ἔδειξα respectively), which makes them both **first aorists**.
 
-The **first aorist** is also known as a **sigmatic aorist**, so called because of the usual presence of a sigma (σ) or "s" sound before the -α; note, for example, the sigma before the -α in ἐκέλευσα. This idea applies even if you don't necessarily see the letter sigma: ἔδειξα is considered sigmatic because the consonant before the -α, ξ, is a combination of a "k" and "s" sound (ἔδειξα: e-dayk-sa). This will also happen with the letter ψ, which is a combination of a "p" and "s" sound.
+The **first aorist** is also known as a **sigmatic aorist**, so called because of the usual presence of a sigma (σ) or "s" sound before the -α; note, for example, the sigma before the -α in ἐκέλευσα. This idea applies even if you don't necessarily see the letter sigma: ἔδειξα is considered sigmatic because the consonant before the -α, ξ, is a combination of a "k" and "s" sound (ἔδειξα: e-dayk-sa). This will also happen with the letter ψ, which is a combination of a "p" and "s" sound (e.g., λείπω, "to leave", has a third principal part ἔλειψα).
 
 We will focus solely on first aorists for this unit; we'll learn about second aorists later.
 
@@ -85,8 +85,8 @@ To form the aorist tense in the active and middle voices, we use the **third pri
 
 Here are the steps to conjugate in the aorist active and middle:
 1. To get the **aorist active and middle stem**, take the -α off the third principal part.  
-2. Add the appropriate ending to indicate the appropriate person, number, and voice.  
-3. Apply a recessive accent based on the rules laid out [in the unit on accents](../alphabet-and-accents#accents).
+2. Add the appropriate **personal ending** to indicate the appropriate person, number, and voice. ("Personal endings" are so called because they indicate the *person* [and *number*] of the verb.)
+3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
 
 #### (1st) Aorist Active Endings
 
@@ -149,8 +149,8 @@ We can apply the same principles that we used above to conjugate verbs in the **
 
 Here are the steps to conjugate a verb in the aorist passive:
 1. To get the **aorist passive stem**, take the -ην off the sixth principal part.  
-2. Add the appropriate ending to indicate the appropriate person and number.  
-3. Apply a recessive accent based on the rules laid out [in the unit on accents](../alphabet-and-accents#accents).
+2. Add the appropriate **personal ending** to indicate the appropriate person and number.  
+3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
 
 #### Aorist Passive Endings
 

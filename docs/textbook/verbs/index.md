@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verbs
+title: 01 - Verbs
 permalink: /textbook/verbs
 nav_order: 2
 parent: Textbook
