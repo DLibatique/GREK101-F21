@@ -107,6 +107,7 @@ Here are the steps to conjugate in the aorist active and middle:
 \* In the 3rd singular aorist active ending, note how the ν is encased in parentheses. This is called a **moveable nu**, and it appears in the ending when the word that follows the verb begins with a vowel or when the verb comes before a punctuation mark like a period.
 
 #### Application
+{: .no_toc }
 
 Using the rules above, let's conjugate κελεύω in the 3rd person singular and plural in the active and middle voices and figure out how to translate those forms.
 
@@ -124,6 +125,7 @@ Following our conjugation rules, we come up with the following forms for **3rd p
 | Middle | ἐκελεύσατο | ἐκελεύσαντο |  
 
 #### Translation
+{: .no_toc }
 
 So much for forming these verbs in Greek; what do they actually mean? Put differently, how do we translate forms like ἐκελεύσατο or ἐκέλευσαν?
 
@@ -161,6 +163,7 @@ Here are the steps to conjugate a verb in the aorist passive:
 | 3rd | **-η** | **-ησαν** |
 
 #### Application
+{: .no_toc }
 
 So, when we apply these rules to κελεύω:
 
@@ -173,6 +176,7 @@ So, when we apply these rules to κελεύω:
 | Passive | ἐκελεύσθη | ἐκελεύσθησαν |
 
 #### Translation
+{: .no_toc }
 
 The tense is still aorist (i.e., a simple past tense), and the same subjects are in play depending on whether the verb is 3rd person singular or plural. The **passive voice**, however, indicates a different pathway of activity: the verb is performed *upon* the subject, rather than the subject performing the action. So, note the following translations:
 

@@ -64,6 +64,7 @@ Here are the steps to conjugate a second aorist:
 | 3rd | **-ετο** | **-οντο** |
 
 #### Application
+{: .no_toc }
 
 Let's practice conjugating the second aorist with the verb ἄγω (third principal part: **ἤγαγον**).
 
@@ -83,6 +84,7 @@ These rules result in the following forms:
 (Again, note that the distinction between first and second aorist affects *only* the third principal part. The aorist passive forms of ἄγω are formed according to the same rules described [in the unit on first aorists](first-aorist#aorist-passive); 3rd sg. is ἤχθη, while 3rd pl. is ἤχθησαν.)
 
 #### Translation
+{: .no_toc }
 
 Again, the only difference between a second aorist and a first aorist is the endings used to conjugate it; everything else remains the same. The verbal action is still an instantaneous or completed action in the past, and the voice of the verb indicates the relationship of the subject to the verb's action. So, here are some examples of ways to translate our newly-conjugated forms:
 
