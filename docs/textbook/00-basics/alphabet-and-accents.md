@@ -197,6 +197,18 @@ Add an appropriate accent (an acute, a circumflex, or a grave) on the following 
 7. θαλαττα (persistent accent on antepenult, short final alpha)
 8. θαλατταις (persistent accent on antepenult **BUT** long ultima)
 
+***
+
+## Punctuation
+
+A quick note about punctuation. In the Greek texts that you will encounter, there are four punctuation marks that will help you understand how to group clauses together and understand the flow of a passage, two familiar from English and two that will look quite different.
+
+* A **period** completes an independent thought: .
+* A **comma** separates elements of a list: ,
+* A **middle dot**, like a semi-colon, separates independent clauses but less strongly than a period: ·
+* A **question mark** turns a thought into a question: ;
+
+Note that the Greek question mark looks like (but does not function like) the English semi-colon.
 
 ***
 

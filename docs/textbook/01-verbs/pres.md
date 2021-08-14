@@ -133,7 +133,7 @@ Hopefully these steps sound familiar by this point. The only difference are the 
 | 2nd | `-σαι` | `-σθε`|
 | 3rd | **-ται** | **-νται** |
 
-It is here that we can see the difference between **thematic/-ω** and **athematic/-μι** verbs most clearly. Note how the middle/passive endings for -ω verbs and -μι verbs look mostly similar, but the -ω verb endings begin with a **thematic vowel** (-ο- before μ or ν, and -ε- elsewhere).
+<a name="them"></a>It is here that we can see the difference between **thematic/-ω** and **athematic/-μι** verbs most clearly. Note how the middle/passive endings for -ω verbs and -μι verbs look mostly similar, but the -ω verb endings begin with a **thematic vowel** (-ο- before μ or ν, and -ε- elsewhere).
 
 (*This following paragraph is just for your information; no need to commit this to memory, but this explanation may help put other things in context later down the line*:)  
 
