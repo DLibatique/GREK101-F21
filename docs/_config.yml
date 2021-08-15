@@ -1,5 +1,6 @@
-remote_theme: svrooij/just-the-docs@relative-everything
+remote_theme: pmarsceill/just-the-docs
 title: GREK 101 01
+url: "https://libatique.info/GREK101-F21/"
 
 footer_content: "All material developed by Daniel Libatique and Neel Smith, and available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
 
