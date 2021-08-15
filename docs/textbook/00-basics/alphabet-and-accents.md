@@ -22,7 +22,7 @@ grand_parent: Textbook
 
 The ancient Greek alphabet consists of 24 letters, either **vowels** or **consonants**. Every Greek word must contain at least one vowel sound, whether it consists of a single letter or two letters that form a **diphthong** (on which see below), and the number of vowel sounds in a word indicates the number of **syllables** that the word contains.
 
-See this video by Prof. Katie DeBoer on how each of the letters is pronounced, and then reinforce your understanding with the text and exercise that follow:
+See this video by Prof. Katie DeBoer on how each of the letters is pronounced, and then reinforce your understanding with the text and exercises that follow:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWToJdq21kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

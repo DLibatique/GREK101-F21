@@ -111,10 +111,35 @@ Here is the list of steps to follow to conjugate a verb in the imperfect tense:
 
 You'll notice that these steps are largely the same process that you would take to conjugate in the aorist or present tenses; the only extra step is the addition of an augment to the stem.
 
+Let's use ἔχω and δείκνυμι as our examples for -ω and -μι verbs respectively.
 
+1. The pure stem from each verb's first principal part is, respectively, ἐχ- and δείκνυ-.
+2. Each of these verbs will use a different kind of augment.
+    * Because ἐχ- begins with a vowel, it requires a temporal augment, and the resulting imperfect stem is **εἰχ-**.
+    * δεικνυ-, on the other hand, begins with a consonant, so we can simply use a syllabic augment to form the imperfect stem ἐδεικνυ-.
+3. The personal ending that you apply to the verb depends on its conjugation, what person and number the subject of the verb is, and what voice you want the verb to be.
+    * For -ω verbs, the imperfect active endings are -ε(ν) and -ον for 3rd singular and plural respectively; the imperfect middle/passive endings are -ετο and -οντο.
+    * For -μι verbs, the imperfect active endings are -- and -σαν for 3rd singular and plural respectively; the imperfect middle/passive endings are -το and -ντο.
+4. Most forms will be accented on the antepenult (or penult for two-syllable forms) since none of the ultimas in the imperfect endings is long, with the exception of the 3rd sg. imperfect active of δείκνυμι (the υ is naturally long).
+
+**ἔχω**
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | εἶχε(ν) | εἴχετο |
+| 3rd pl. | εἶχον | εἴχοντο |
+
+**δείκνυμι**
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | ἐδείκνυ | ἐδείκνυτο |
+| 3rd pl. | ἐδείκνυσαν | ἐδείκνυντο |
 
 #### Translation
 {: .no_toc }
+
+
 
 ***
 
