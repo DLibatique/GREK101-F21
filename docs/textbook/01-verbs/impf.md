@@ -139,10 +139,26 @@ Let's use ἔχω and δείκνυμι as our examples for -ω and -μι verbs 
 #### Translation
 {: .no_toc }
 
+Remember that the imperfect indicates an **action in progress in the past**, so our translations of the imperfect will often involve a *progressive* form of a past tense verb in English, meaning "was/were [verb]ing."
 
+Here are some sample translations of the verb forms above:
+* εἶχεν: "she was holding"
+* εἴχετο (passive): "it was being held"
+* εἴχοντο (middle): "they were holding (for themselves)"
+* ἐδείκνυσαν: "they were showing"
+* ἐδείκνυτο (passive): "it was being shown"
+
+The main difference between the imperfect and the aorist is the **aspect** of the verbal action. *Aspect* refers to a quality of the verb's action, primarily whether it is in progress or completed/instant. The former is called **present aspect**, while the latter is called **aorist(ic) aspect**, and we can determine which aspect a verb possesses based on **which principal part the verb is built from**. If the verb is based on the **first principal part**, it has **present aspect**; if the verb is based on the **3rd or 6th principal parts**, it has **aoristic aspect**. Compare the following two forms:
+
+* ἐδείκνυτο (passive): "it was *being* shown"
+* ἐδείχθη: "it was shown"
+
+The addition of "being" to the translation of the imperfect gets across the verb's aspect: it's in the process of happening, rather than being a one-and-done event as in the aorist.
+
+(The present tense, which is also built on the first principal part, nevertheless can be translated with either aspect: for example, δείχνυσιν can either be "he shows" or "he is showing".)
 
 ***
 
 ## Imperfect Versus Aorist
 
-The imperfect and the aorist share two major similarities: the augment and the personal endings. So, how can we tell the imperfect and the aorist apart? The answer lies in the **verb stem** and, more specifically, **from which principal part the verb stem derives.** Recall that the **aorist** is built on the third and sixth principal parts, while the **imperfect** is built on the first.
+The imperfect and the aorist share two major similarities: the augment and the personal endings. So, when we are trying to parse a verb and tell what tense it is, how can we tell the imperfect and the aorist apart? The answer lies in the **verb stem** and, more specifically, **from which principal part the verb stem derives.** Recall that the **aorist** is built on the third and sixth principal parts, while the **imperfect** is built on the first.
