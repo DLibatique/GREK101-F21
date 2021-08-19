@@ -182,4 +182,16 @@ As you can see, sometimes a single letter can make all the difference between te
 
 Since κελεύω has a first (sigmatic) aorist, the σ in the aorist active and middle stem helps differentiate those forms from the imperfect (e.g., ἐκέλευ**σ**εν versus ἐκέλευσεν).
 
-The stems for ἄγω and δείκνυμι are 
+The stems for ἄγω and δείκνυμι are a bit easier to tell apart than those of κελεύω; note, for example, the multiple syllables in ἠγαγ- versus the single syllable of ἠγ-, the sigmatic stem of ἐδειξ-, and the characteristic θ in the aorist passive stems. For ἄγω in particular, its second aorist uses the same endings as the imperfect, so only the stem can help you differentiate the forms:
+
+| Tense | Active | Middle | Passive |
+| ----- | ----- | ----- | ----- |
+| Imperfect | ἦγεν | ἤγετο | ἤγετο |
+| Aorist | ἤγαγεν | ἠγάγετο | ἤχθη |
+
+| Tense | Active | Middle | Passive |
+| ----- | ----- | ----- | ----- |
+| Imperfect | ἐδείκνυ | ἐδείκνυτο | ἐδείκνυτο |
+| Aorist | ἔδειξεν | ἐδείξατο | ἐδείχθη |
+
+In any case, the bottom line is: **know your principal parts!** Only they can help you differentiate between different tenses and voices of the same verb.
