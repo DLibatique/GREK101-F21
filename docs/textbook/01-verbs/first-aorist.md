@@ -147,7 +147,7 @@ The **middle** voice, on the other hand, implies that the subject has some self-
 
 ### Aorist Passive
 
-We can apply the same principles that we used above to conjugate verbs in the **aorist passive**, which uses the **6th principal part**. Again, we will use κελεύω and its sixth principal part ἐκελεύσθην as our example.
+We can apply the same principles that we used above to conjugate verbs in the **aorist passive**, which uses the **6th principal part**. Sixth principal parts will often, though not always, exhibit a θ towards the end of its stem. Again, we will use κελεύω and its sixth principal part ἐκελεύσθην as our example.
 
 Here are the steps to conjugate a verb in the aorist passive:
 1. To get the **aorist passive stem**, take the -ην off the sixth principal part.  

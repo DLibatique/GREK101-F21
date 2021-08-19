@@ -162,3 +162,24 @@ The addition of "being" to the translation of the imperfect gets across the verb
 ## Imperfect Versus Aorist
 
 The imperfect and the aorist share two major similarities: the augment and the personal endings. So, when we are trying to parse a verb and tell what tense it is, how can we tell the imperfect and the aorist apart? The answer lies in the **verb stem** and, more specifically, **from which principal part the verb stem derives.** Recall that the **aorist** is built on the third and sixth principal parts, while the **imperfect** is built on the first.
+
+As a result, it is imperative to have memorized or to be able to reference a verb's principal parts and the stems that derive from them; without that knowledge, you cannot determine a verb's tense, let alone the difference between its imperfect and aorist forms.
+
+Let's take three examples, κελεύω, ἄγω, and δείκνυμι, and list their imperfect and aorist stems across the 1st, 3rd, and 6th principal parts (I'll list the first principal part stem with the augment that you would need in the imperfect tense):
+
+| Verb | Imperfect Stem (1st pp) | Aor Act/Mid Stem (3rd pp) | Aor Pass Stem (6th pp) |
+| ----- | ----- | ----- | ----- |
+| κελεύω | ἐκελευ- | ἐκελευσ- | ἐκελευσθ- |
+| ἄγω | ἠγ- | ἤγαγ- | ἠχθ- |
+| δείκνυμι | ἐδεικνυ- | ἐδειξ- | ἐδειχθ- |
+
+As you can see, sometimes a single letter can make all the difference between tenses. For example, let's conjugate κελεύω in the 3rd sg.:
+
+| Tense | Active | Middle | Passive |
+| ----- | ----- | ----- | ----- |
+| Imperfect | ἐκέλευεν | ἐκελεύετο | ἐκελεύετο |
+| Aorist | ἐκέλευσεν | ἐκελεύσατο | ἐκελεύσθη |
+
+Since κελεύω has a first (sigmatic) aorist, the σ in the aorist active and middle stem helps differentiate those forms from the imperfect (e.g., ἐκέλευ**σ**εν versus ἐκέλευσεν).
+
+The stems for ἄγω and δείκνυμι are 
