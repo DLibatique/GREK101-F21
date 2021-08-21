@@ -69,6 +69,57 @@ The contraction of the stem's epsilon with the following vowel simply adds an ex
 3. **replace the clashing vowels with their resulting contraction**,
 4. and apply a recessive accent.
 
-The accentuation step will also have some specific rules, but let's take the verb ποιέω as an example and see how the contractions work when we conjugate it in the present and imperfect tenses (and deal with the accentuation when we get there).
+The accentuation step will also have some specific rules, but first, let's take the verb ποιέω as an example and see how the contractions work when we conjugate it in the present and imperfect tenses (and deal with the accentuation when we get there).
+
+### Present Tense
 
 As usual, we begin by finding the stem from the first principal part; when we take -ω off the verb, we are left with ποιε-. This -ε- at the end of the stem classifies ποιέω as a **contract verb**, so we must be sure to apply that step of contracting the ε with the personal ending's vowel/diphthong as we go.
+
+If we start with the present tense, we know four endings that we can attach to this stem to conjugate the verb across all three voices in the 3rd person singular and plural:
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | -ει | -εται |
+| 3rd pl. | -ουσι(ν) | -ονται |
+
+The following chart shows the verb stem and the appropriate personal endings, with the vowels/diphthongs that we need to contract in bold (and an accent applied to the verb as if the vowels will remain uncontracted):
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | ποι**έ** + **ει** | ποι**έ** + **ε**ται |
+| 3rd pl. | ποι**έ** + **ου**σι(ν) | ποι**έ** + **ο**νται |
+
+In terms of accentuation, we need to look at **the two vowels to be contracted and the placement of the accent in the unaccented form**.
+* If the accent is on the **stem vowel**, it becomes a **circumflex over the contraction.**
+* If the accent is on the **first vowel of the ending**, it remains an **acute over the contraction.**
+* If the accent falls on **neither vowel** (e.g., it falls on an antepenult), it remains whatever it is.
+
+So, given the chart above, our forms contract into the following:
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | ποι**εῖ** | ποι**εῖ**ται |
+| 3rd pl. | ποι**οῦ**σι(ν) | ποι**οῦ**νται |
+
+### Imperfect Tense
+
+When conjugating a contract verb in the imperfect, the same process applies with the addition of an augment and the swapping in of the imperfect endings:
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | -ε(ν) | -ετο |
+| 3rd pl. | -ον | -οντο |
+
+Our verb, ποιέω, begins with a consonant, so it will receive a syllabic augment (ἐ-).
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | ἐποί**ε** + **ε**(ν) | ἐποι**έ** + **ε**το |
+| 3rd pl. | ἐποί**ε** + **ο**ν | ἐποι**έ** + **ο**ντο |
+
+Then, the process of contraction results in the following forms:
+
+| Person/Number | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 3rd sg. | ἐποί**ει**(ν) | ἐποι**εῖ**το |
+| 3rd pl. | ἐποί**ου**ν | ἐποι**οῦ**ντο |

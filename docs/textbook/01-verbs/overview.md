@@ -156,3 +156,27 @@ Note that the accent on a finite verb form is **recessive**. Recall from the uni
 In the first form, the accent (an acute) occupies the antepenult since the ultima, -ε, is short. In the second form, however, the acute accent gets pulled to the penult due to the long ultima, -ει.
 
 Although the accent on finite verb forms is recessive, note that the accents on participles and some infinitives are persistent. More on this later.
+
+***
+
+## Example Nouns
+
+This entire module will focus on verbs, which, granted, are the most important part of a Greek sentence. However, Greek sentences comprise other parts of speech, like nouns and adjectives, that help make sentences more interesting and less monotonous. Without them, we end up with boring strings of sentences: "I go. He ordered. They were shown."
+
+So, here, we will introduce a very limited set of nouns to make the examples and exercises in this module more interesting. You do not need to memorize these forms right now (though you will memorize them in module 2, and early memorization makes that task easier later on!), and there are a few ideas about nouns to keep in mind:
+
+* Nouns are inflected (i.e., we change the endigns of nouns) to indicate the noun's function in the sentence. This process of inflection is called **declension**, and we **decline** nouns into different **cases** that cover a noun's different functions, also called "uses".
+* The two **cases** and accompanying **uses** that the following nouns will demonstrate are:
+    * the **nominative case**, used for the **subject** of a verb (in any voice)
+    * the **accusative case**, used for the **direct object** of an active or middle voice verb (a **direct object** is a noun that *receives* the action of the verb; for example, "the ball" in "The boy kicks *the ball*.")
+* A noun, like a verb, has **number**: singular, plural, or dual.
+* The number of a verb's subject must match the number of the verb.
+
+Here are the nouns that we will use in the coming chapters. You can bookmark [this link](https://libatique.info/GREK101-F21/textbook/verbs/overview#example-nouns) to refer to this chart whenever you need.
+
+| Definition | Nom. Sg. | Nom. Pl. | Acc. Sg. | Acc. Pl. |
+| ----- | ----- | ----- | ----- | ----- |
+| the city | ἡ πόλις | αἱ πόλεις | τὴν πόλιν | τὰς πόλεις |
+| the person | ὁ ἄνθρωπος | οἱ ἄνθρωποι | τὸν ἄνθρωπον | τοὺς ἀνθρώπους |
+| the thing; (plural) the money | τὸ χρῆμα | τὸ χρῆμα | τὰ χρήματα | τὰ χρήματα |
+| the witness | ὁ μάρτυς | τὸν μάρτυρα | οἱ μάρτυρες | τοὺς μάρτυρας |
