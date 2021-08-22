@@ -170,13 +170,13 @@ So, here, we will introduce a very limited set of nouns to make the examples and
     * the **nominative case**, used for the **subject** of a verb (in any voice)
     * the **accusative case**, used for the **direct object** of an active or middle voice verb (a **direct object** is a noun that *receives* the action of the verb; for example, "the ball" in "The boy kicks *the ball*.")
 * A noun, like a verb, has **number**: singular, plural, or dual.
-* The number of a verb's subject must match the number of the verb.
+* The number of a verb's subject must match the number of the verb (i.e., if the verb is singular, the subject must be singular).
 
 Here are the nouns that we will use in the coming chapters. You can bookmark [this link](https://libatique.info/GREK101-F21/textbook/verbs/overview#example-nouns) to refer to this chart whenever you need.
 
 | Definition | Nom. Sg. | Nom. Pl. | Acc. Sg. | Acc. Pl. |
 | ----- | ----- | ----- | ----- | ----- |
 | the city | ἡ πόλις | αἱ πόλεις | τὴν πόλιν | τὰς πόλεις |
+| the citizen | ὁ πολίτης | τὸν πολίτην | οἱ πολῖται | τοὺς πολίτας |
 | the person | ὁ ἄνθρωπος | οἱ ἄνθρωποι | τὸν ἄνθρωπον | τοὺς ἀνθρώπους |
 | the thing; (plural) the money | τὸ χρῆμα | τὸ χρῆμα | τὰ χρήματα | τὰ χρήματα |
-| the witness | ὁ μάρτυς | τὸν μάρτυρα | οἱ μάρτυρες | τοὺς μάρτυρας |

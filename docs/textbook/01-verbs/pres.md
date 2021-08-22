@@ -38,7 +38,12 @@ The **present** tense, as discussed [in the verb overview](overview#verb-aspects
 * "They are ordering" (progressive present)
 * "They do order" (emphatic present)
 
-These are all present tense versions of the same verb, "to order", in the 3rd plural; each version refers to an action that is happening now. The variations simply cover different types of action: the simple present, like the aorist, implies an instantaneous action; the progressive present indicates an action that is in the process of happening, like the imperfect; and the emphatic present, as the name implies, emphasizes an action and is also used in questions (e.g., "do they order?"). Context will often help guide you towards one of these translations more strongly than the others.
+These are all present tense versions of the same verb, "to order", in the 3rd plural; each version refers to an action that is happening now. The variations simply cover different types of action:
+* the simple present, like the aorist, implies an instantaneous action;
+* the progressive present indicates an action that is in the process of happening, like the imperfect;
+* and the emphatic present, as the name implies, emphasizes an action and is also used in questions (e.g., "do they order?").
+
+Context will often help guide you towards one of these translations more strongly than the others.
 
 Like the aorist, the present tense can be expressed in any of the three voices. For example:
 
@@ -52,7 +57,7 @@ Unlike the aorist, however, all three voices are built on one principal part, th
 
 ## Present Indicative (-ω and -μι)
 
-Recall from [the verb overview](overview#conjugation) that the ending of the first principal part indicates to what **conjugation** it belongs: -ω or -μι. The distinction between -ω and -μι verbs is similar to that between first and second aorists: the grouping determines what sets of endings we can use to conjugate the verb, but it doesn't affect the verb's core aspects. A 3rd singular present active indicative -ω verb is the same as a 3rd singular present active indicative -μι verb in terms of when the verb happens, who performs it, etc.; all that differs is the ending that we use to indicate those verbal aspects.
+Recall from [the verb overview](overview#conjugation) that the ending of the first principal part indicates to what **conjugation** the verb belongs: -ω or -μι. The distinction between -ω and -μι verbs is similar to that between first and second aorists: the grouping determines what sets of endings we can use to conjugate the verb, but it doesn't affect the verb's core aspects. A 3rd singular present active indicative -ω verb is the same as a 3rd singular present active indicative -μι verb in terms of when the verb happens, who performs it, etc.; all that differs is the ending that we use to indicate those verbal aspects.
 
 -ω verbs are also considered **thematic verbs**, so called because the personal endings are a combination of a **thematic/theme vowel** (-ο- before μ or ν, -ε- elsewhere) and a true personal ending that indicates person and number. In some endings of this type, it can be difficult to extricate the theme vowel from the true personal ending, but this distinction is important when we compare thematic verbs against **-μι verbs**, which are **athematic**, meaning that there is no -o- or -ε- between the verb stem and the personal ending.
 
@@ -103,6 +108,10 @@ Here are our resulting forms:
 {: .no_toc }
 
 The verbal aspects that we took into consideration when learning about the aorist also apply here; simply swap in present tense for aorist tense. So, for example, κελεύει can mean "she orders", while δείκνυσιν can mean "he shows."
+
+***
+
+#### Practice Opportunity 1
 
 ***
 

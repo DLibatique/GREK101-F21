@@ -104,3 +104,16 @@ You will notice that some dictionary entries lack active forms in some or all pr
 Such verbs that lack active forms in some or all principal parts are known as **deponent verbs**. While deponent verbs are conjugated in the middle or passive voice, the main thing to keep in mind is that deponent verbs are **middle or passive in form, but active in meaning**. So, while forms like ἐγένετο or ἐγενήθη are middle or passive respectively, one cannot "be becomed" or "be happened", so an active translation like "he became" or "they became" is needed.
 
 Some deponent verbs are deponent in only some principal parts. For example, take a look at the dictionary entry above for **ἔρχομαι**, "to come, to go." Its third principal part, ἦλθον, is a straightforward second aorist (active), but its first principal part, ἔρχομαι, with its -ομαι ending, is deponent (properly present tense and middle voice, as we'll learn about in a later unit).
+
+***
+
+## Practice Opportunity 1
+
+Translate the following sentences into English, using the verb entries above and the [example nouns listed in the verb overview](overview#example-nouns).
+
+1. οἱ πολῖται τὴν πόλιν ἤγαγον.
+2. ὁ πολίτης ἦλθεν.
+3. ὁ ἄνθρωπος τὰ χρήματα εἴχετο.
+4. οἱ ἄνθρωποι ἐγένοντο οἱ πολῖται.\*
+
+\* Note that both nouns in this sentence are in the nominative case because the verb ἐγένοντο links them together; they refer to the same entity, so they are in the same case. We'll learn more about this in module 2.

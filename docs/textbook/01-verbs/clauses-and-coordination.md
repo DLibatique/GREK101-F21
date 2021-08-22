@@ -139,15 +139,12 @@ This will be particularly important when we begin adding nouns or pronouns into 
 
 ***
 
-## Practice Opportunity
+## Practice Opportunity 1
 
-Use the verbs that you learned in the previous units and the following vocabulary (to be used for this exercise only, no need to memorize) to render the English sentence into Greek.
+Use the verbs that you learned in the previous units and the [example nouns in the verb overview](overview#example-nouns) to render the English sentence into Greek.
 
-* "the house": ἡ οἰκία (as the **subject** of a verb), τήν οἰκίαν (as the **object** of a verb)
-* "the horses": οἱ ἵπποι (as the **subject** of a verb), τοὺς ἵππους (as the **object** of a verb)
-* "the sailor": ὁ ναύτης (as the **subject** of a verb), τόν ναύτην (as the **object** of a verb)
-* "the soldiers": οἱ στρατιῶται (as the **subject** of a verb), τοὺς στρατιώτας (as the **object** of a verb)
-
-1. The soldiers ordered the horses, and the sailor showed the house.
-2. The sailor came, but the horses were led.
-3. The sailor showed the house because the soldiers held the horses.
+1. The people led the cities and held the money.
+2. The citizen came, but he was led.
+3. The citizens either held the city or led the people.
+4. The person showed the city because the citizens held the money.
+5. They both showed and were shown.

@@ -145,6 +145,18 @@ The **middle** voice, on the other hand, implies that the subject has some self-
 
 ***
 
+### Practice Opportunity 1
+
+Translate the following sentences into English, using the verb entries above and the [example nouns listed in the verb overview](overview#example-nouns).
+
+[Answer key here](../answer-key#first-aorist-po1).
+
+1. ὁ πολίτης ἐκέλευσεν.
+2. ὁ ἄνθρωπος τὴν πόλιν ἔδειξεν.
+3. οἱ πολῖται ἐκέλευσαν τοὺς ἀνθρώπους.
+
+***
+
 ### Aorist Passive
 
 We can apply the same principles that we used above to conjugate verbs in the **aorist passive**, which uses the **6th principal part**. Sixth principal parts will often, though not always, exhibit a θ towards the end of its stem. Again, we will use κελεύω and its sixth principal part ἐκελεύσθην as our example.
@@ -189,19 +201,23 @@ Envision the voice of a verb indicating the direction of an arrow between the su
 
 ***
 
-### Summary: Aorist Active, Middle, and Passive
+### Practice Opportunity 2
 
-| Voice | Singular | Plural |
-| ----- | ----- | ----- |
-| Active | ἐκέλευσε(ν) | ἐκέλευσαν |
-| Middle | ἐκελεύσατο | ἐκελεύσαντο |  
-| Passive | ἐκελεύσθη | ἐκελεύσθησαν |
+Translate the following sentences into English, using the verb entries above and the [example nouns listed in the verb overview](overview#example-nouns).
+
+[Answer key here](../answer-key#first-aorist-po2).
+
+1. τὰ χρήματα ἐδείχθησαν.
+2. ἡ πόλις ἐκελεύσθη.
+3. οἱ ἄνθρωποι ἐκελεύσθησαν.
 
 ***
 
-### Practice Opportunity
+### Practice Opportunity 3
 
 Use the dictionary entry for δείκνυμι to conjugate the verb to match the English in each prompt.
+
+[Answer key here](../answer-key#first-aorist-po3).
 
 1. she showed
 2. they were shown
@@ -212,4 +228,12 @@ Use the dictionary entry for δείκνυμι to conjugate the verb to match th
 
 ***
 
-### Practice Opportunity
+## Summary: Aorist Active, Middle, and Passive
+
+| Voice | Singular | Plural |
+| ----- | ----- | ----- |
+| Active | ἐκέλευσε(ν) | ἐκέλευσαν |
+| Middle | ἐκελεύσατο | ἐκελεύσαντο |  
+| Passive | ἐκελεύσθη | ἐκελεύσθησαν |
+
+***
