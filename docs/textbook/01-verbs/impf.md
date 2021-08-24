@@ -139,7 +139,7 @@ Let's use ἔχω and δείκνυμι as our examples for -ω and -μι verbs 
 #### Translation
 {: .no_toc }
 
-Remember that the imperfect indicates an **action in progress in the past**, so our translations of the imperfect will often involve a *progressive* form of a past tense verb in English, meaning "was/were [verb]ing."
+Remember that the imperfect indicates an **action in progress in the past**, so our translations of the imperfect will often involve a *progressive* form of a past tense verb in English, meaning **"was/were [verb]ing"**. There are also other ways to indicate continuous action in the past. For example, if an action was a habit that occurred over and over again, we might phrase it in the following way: **"used to [verb]".**
 
 Here are some sample translations of the verb forms above:
 * εἶχεν: "she was holding"
@@ -156,6 +156,16 @@ The main difference between the imperfect and the aorist is the **aspect** of th
 The addition of "being" to the translation of the imperfect gets across the verb's aspect: it's in the process of happening, rather than being a one-and-done event as in the aorist.
 
 (The present tense, which is also built on the first principal part, nevertheless can be translated with either aspect: for example, δείχνυσιν can either be "he shows" or "he is showing".)
+
+### Practice Opportunity 1
+
+Each of the following forms is a verb's first principal part that you have not yet encountered. Conjugate each into the **imperfect tense in the indicated person, number, and voice.**
+
+1. σκέπτομαι - 3rd singular middle/passive
+2. βαδίζω - 3rd plural active
+3. μίγνυμι - 3rd singular active
+4. μοιχεύω - 3rd plural middle/passive
+5. σκεδάννυμι - 3rd plural active
 
 ***
 
@@ -195,3 +205,12 @@ The stems for ἄγω and δείκνυμι are a bit easier to tell apart than 
 | Aorist | ἔδειξεν | ἐδείξατο | ἐδείχθη |
 
 In any case, the bottom line is: **know your principal parts!** Only they can help you differentiate between different tenses and voices of the same verb.
+
+### Practice Opportunity 2
+
+Each of the following pairs contains an imperfect tense form and an aorist tense form of the same verb. Indicate which is which and what clues you used to figure it out.
+
+1. εἴχεν - ἔσχεν
+2. ἐδείξατο - ἐδείκνυτο
+3. ἤρχοντο - ἦλθον
+4. ἐγίγνετο - ἐγένετο

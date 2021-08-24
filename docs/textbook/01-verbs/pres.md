@@ -113,6 +113,12 @@ The verbal aspects that we took into consideration when learning about the aoris
 
 #### Practice Opportunity 1
 
+Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
+
+1. ὁ πολίτης κελεύει τοὺς ἀνθρώπους.
+2. ὁ ἄνθρωπος τὴν πόλιν δείκνυσιν.
+3. οἱ πολῖται λέγουσιν.
+
 ***
 
 ### Present Middle/Passive
@@ -179,12 +185,21 @@ The same goes for a form like δείκνυνται:
 * If it's middle, a sample translation is "they show (for themselves)."
 * If it's passive, however: "they are (being) shown."
 
-***
-
-### A Note about Deponents
+#### A Note about Deponents
 
 Recall from the unit on [second aorists](second-aorist#deponent-verbs) that a **deponent verb** is a verb that is **middle/passive in form but active in meaning**. This distinction applies to any of the tenses, including the present tense. A deponent present tense is indicated by a first principal part that ends in **-ομαι** (for -ω verbs) or **-μαι** (without the thematic vowel, for -μι verbs).
 
 Of the verbs that you know so far, two are deponent in the first principal part: **γίγνομαι** ("to happen, to become") and **ἔρχομαι** ("to come, to go"). Both of these forms have the theme vowel ο before the -μαι, so we classify these verbs as belonging to the -ω conjugation.
 
 The conjugation of these verbs on their first principal parts, then, will use only middle/passive endings (i.e., γίγνεται, γίγνονται; ἔρχεται, ἔρχονται) but be translated actively (e.g., "he becomes", "they come").
+
+#### Practice Opportunity 2
+
+Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
+
+1. οἱ πολῖται τὴν πόλιν ἄγονται.
+2. ὁ πολίτης ἔρχεται.
+3. ὁ ἄνθρωπος τὰ χρήματα ἔχεται.
+4. οἱ ἄνθρωποι γίγνονται οἱ πολῖται.\*
+
+\* Note that both nouns in this sentence are in the nominative case because the verb ἐγένοντο links them together; they refer to the same entity, so they are in the same case. We’ll learn more about this in module 2.

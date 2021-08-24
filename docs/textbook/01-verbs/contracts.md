@@ -101,6 +101,15 @@ So, given the chart above, our forms contract into the following:
 | 3rd sg. | ποι**εῖ** | ποι**εῖ**ται |
 | 3rd pl. | ποι**οῦ**σι(ν) | ποι**οῦ**νται |
 
+#### Practice Opportunity 1
+
+Conjugate the given verb into the **present tense in the indicated person, number, and voice.**
+
+1. ἀδικέω - 3rd singular middle/passive
+2. δοκέω - 3rd plural active
+3. ἀδικέω - 3rd plural middle/passive
+4. δοκέω - 3rd singular active
+
 ### Imperfect Tense
 
 When conjugating a contract verb in the imperfect, the same process applies with the addition of an augment and the swapping in of the imperfect endings:
@@ -123,3 +132,12 @@ Then, the process of contraction results in the following forms:
 | ----- | ----- | ----- |
 | 3rd sg. | ἐποί**ει**(ν) | ἐποι**εῖ**το |
 | 3rd pl. | ἐποί**ου**ν | ἐποι**οῦ**ντο |
+
+#### Practice Opportunity 2
+
+Conjugate the given verb into the **imperfect tense in the indicated person, number, and voice.**
+
+1. δοκέω - 3rd singular middle/passive
+2. ἀδικέω - 3rd plural active
+3. δοκέω - 3rd plural middle/passive
+4. ἀδικέω - 3rd singular active

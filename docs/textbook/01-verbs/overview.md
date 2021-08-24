@@ -35,14 +35,14 @@ In each of these sentences, the verb is bolded and serves as the anchor of the e
 
 Verbs can appear in different forms, including **infinitives** (verbal nouns, like "to make" or "to do") or **participles** (verbal adjectives, like "making" or "done"). For this module, however, we'll be focusing mostly on verbs that are **conjugated** (more on this in a bit).
 
-As discussed in [the page on inflection](../basics/inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through: 1) the verb's **ending** and 2) the verb **stem** to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb's action and how many of the actor there are.
+As discussed in [the page on inflection](../basics/inflection#conjugation), we can change the endings of verbs to reflect different aspects of the verb through a process called **conjugation**. A conjugated verb, then, exhibits five major **aspects** that we can glean through **the verb's ending** and **the verb stem** to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb's action and how many of the actor there are.
 
 The following is a broad overview of verbal aspects that we can identify through a verb's stem and ending. We will reinforce these ideas as the year continues, so do not worry if you're overwhelmed by all of these ideas now.
 
 1. **person**. The **person** of a verb indicates the relationship of the speaker of the sentence to the subject.
     * **1st person** means that the speaker *is* the subject or is part of a group that serves as the subject. This is most often indicated through pronouns like "I" or "me" in the singular or "we" or "us" in the plural.
     * **2nd person** means that the speaker is *addressing* the subject. This is most often indicated through pronouns like "you" (singular or plural) or "you all / y'all" (only plural).
-    * **3rd person** means that the speaker is talking about someone that is neither the speaker nor the addressee. This is often indicated through pronouns like "he, she, it, they" as subjects or "him, her, it, them" as objects; or a third-person subject can be explicitly named. For example, "**The bees** make honey" or "**The sky** is blue" -- both "the bees" and "the sky" are examples of third-person subjects.
+    * **3rd person** means that the speaker is talking about someone that is neither the speaker nor the addressee. This is often indicated through pronouns like "he, she, it, they" as subjects or "him, her, it, them" as objects. Also, a third-person subject can be explicitly named. For example, "**The bees** make honey" or "**The sky** is blue" -- both "the bees" and "the sky" are examples of third-person subjects.
 <br><br>
 2. **number**. The **number** of a verb indicates how many of the subject there are.
     * **singular** indicates that there is just one of the subject.
@@ -54,9 +54,9 @@ The following is a broad overview of verbal aspects that we can identify through
     * **imperfect** tense indicates that the action of the verb occurred continuously, over a period of time, in the past. Note the difference between the **aorist** and the **imperfect**; the former is a single point, like a photograph, while the latter takes place over a period of time, like a video.
     * **present** tense indicates that the action of the verb is happening *now*.
     * **future** tense indicates that the action of the verb will occur later but hasn't happened yet.
-    * **perfect** tense indicates that the action of the verb occurred in the past with lasting effects into the present. For example, "he died" -- he died at a point in the past, but he is still dead today.
-    * **pluperfect** tense indicates that the action of the verb occurred *before* another event in the past but had lasting effects into that past moment. For example, "he had died before the war ended" -- his death came before the war ended, and he was still dead when the war did end.
-    * **future perfect** tense indicates that the action of the verb will have occurred *before* another event in the future but will have lasting effects into that future moment. For example, "he will have died before the war will end" -- his death will come before the war's end, and it will last into that future moment.
+    * **perfect** tense indicates that the action of the verb occurred in the past with lasting effects into the present. For example, "he *has died*" -- he died at a point in the past, but he is still dead today.
+    * **pluperfect** tense indicates that the action of the verb occurred *before* another event in the past but had lasting effects into that past moment. For example, "he *had died* before the war ended" -- his death came before the war ended, and he was still dead when the war did end.
+    * **future perfect** tense indicates that the action of the verb will have occurred *before* another event in the future but will have lasting effects into that future moment. For example, "he *will have died* before the war will end" -- his death will come before the war's end, and it will last into that future moment.
 <br><br>
 4. **voice**. The **voice** of a verb indicates the relationship of the subject to the action of the verb.
   * The verb's voice is **active** if the subject *performs* the action of the verb. For example, "The boy **loves** the girl." The boy performs the action of loving.
@@ -103,7 +103,12 @@ In each of the following English sentences, identify the finite/conjugated verb 
 
 ## Dictionary Entry
 
-When you are learning verbs in ancient Greek, you must memorize the way that the verb's entry appears in a dictionary, such as the [master vocabulary list](../../vocabulary/master) for this very textbook. You'll notice that entries for verbs have seven sections: the first six, divided by commas, are called **principal parts** and the seventh, often after a dash or colon, is the definition of the verb in English.
+When you are learning verbs in ancient Greek, you must memorize the way that the verb's entry appears in a dictionary, such as the [master vocabulary list](../../vocabulary/master) for this very textbook. You'll notice that entries for verbs have seven sections: the first six, in Greek, are called **principal parts** and the seventh, in English, is the definition of the verb.
+
+Here are two examples:
+
+* κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)"  
+* δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμα, ἐδείχθην, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)"
 
 Each of the **principal parts** gives you the stem for the verb's forms in certain tenses and voices. Here's an overview:
 
@@ -115,11 +120,6 @@ Each of the **principal parts** gives you the stem for the verb's forms in certa
 | 4th | 1st sg. perfect active | perfect, plupf., and fut. pf. active forms |
 | 5th | 1st sg. perfect middle/passive | perfect, plupf., and fut. pf. middle/passive forms |
 | 6th | 1st sg. aorist passive | aorist passive and future passive forms |
-
-Here are two examples:
-
-* κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)"  
-* δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμα, ἐδείχθην, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)"
 
 Not all verbs have all six principal parts. In such cases, there will be a -- in the places where the verb does not have a principal part. For example:
 
