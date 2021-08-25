@@ -66,7 +66,7 @@ This is an answer key for all the practice opportunities in the textbook.
 
 1. ὁ πολίτης ἐκέλευσεν. The citizen ordered.
 2. ὁ ἄνθρωπος τὴν πόλιν ἔδειξεν. The person showed the city.
-3. οἱ πολῖται ἐκέλευσαν τοὺς ἀνθρώπους. The citizens ordered the people.
+3. οἱ πολῖται ἐκελεύσαντο τοὺς ἀνθρώπους. The citizens ordered the people (for themselves).
 
 ### First Aorist: PO2
 

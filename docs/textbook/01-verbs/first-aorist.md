@@ -129,7 +129,7 @@ Following our conjugation rules, we come up with the following forms for **3rd p
 
 So much for forming these verbs in Greek; what do they actually mean? Put differently, how do we translate forms like ἐκελεύσατο or ἐκέλευσαν?
 
-The verb's ending indicates the verb's person and number, and so it automatically supplies us with a subject, even if we don't have a separate word to indicate the subject as we do in English. So, the form ἐκέλευσαν, by virtue of the fact that it's **3rd person plural**, automatically has the subject "they." We can supply an explicit noun or pronoun to serve as the subject, as we'll learn in a later unit, but for now, **we should use the verb's person and number to supply a subject for the verb**.
+The verb's ending indicates the verb's person and number, and so it automatically supplies us with a subject, even if we don't have a separate word to indicate the subject as we do in English. So, the form ἐκέλευσαν, by virtue of the fact that it's **3rd person plural**, automatically has the subject "they." We can supply an explicit noun or pronoun to serve as the subject, as we'll learn in a later unit, but in the absence of an explicit noun in the appropriate case, **we should use the verb's person and number to supply a subject for the verb**.
 
 Note also that these are **aorist** forms, so the action of the verb occurred in the past. The best translation for an aorist tense verb is its simple past tense, often denoted with an "-ed."
 
@@ -153,7 +153,7 @@ Translate the following sentences into English, using the verb entries above and
 
 1. ὁ πολίτης ἐκέλευσεν.
 2. ὁ ἄνθρωπος τὴν πόλιν ἔδειξεν.
-3. οἱ πολῖται ἐκέλευσαν τοὺς ἀνθρώπους.
+3. οἱ πολῖται ἐκελεύσαντο τοὺς ἀνθρώπους.
 
 ***
 
@@ -228,7 +228,7 @@ Use the dictionary entry for δείκνυμι to conjugate the verb to match th
 
 ***
 
-## Summary: Aorist Active, Middle, and Passive
+## Summary: Aorist Active, Middle, and Passive (3rd person)
 
 | Voice | Singular | Plural |
 | ----- | ----- | ----- |

@@ -34,7 +34,7 @@ Please memorize the following verb dictionary entries, which will be used in thi
 
 As discussed in [the unit on first aorists](first-aorist#first-and-second-aorists), a verb's third principal part can be either **first aorist** or **second aorist**, as determined by the principal part's ending: a **first aorist** ends in -α or -άμην, while a **second aorist** ends in -ον or -όμην. Note, for example, the dictionary entries for ἄγω, ἔχω, and λέγω above: their third principal parts each end in -ον, which means that they are **second aorists**.
 
-The distinction between **first aorists** and **second aorists** affects only the formation of the **aorist active and middle**, i.e., the forms created using the **third principal part**. There is no distinction of first or second aorist in the aorist passive or sixth principal part; the distinction affects only the aorist active and middle. Otherwise, the first and second aorist operate along the same general rules: they indicate an instantaneous or completed event in the past in the active or middle voice.
+The distinction between **first aorists** and **second aorists** affects only the formation of the **aorist active and middle**, i.e., the forms created using the **third principal part**. There is no meaningful distinction of first or second aorist in the aorist passive or sixth principal part; the distinction affects only the aorist active and middle. Otherwise, the first and second aorist operate along the same general rules: they indicate an instantaneous or completed event in the past in the active or middle voice.
 
 ***
 

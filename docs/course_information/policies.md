@@ -75,9 +75,11 @@ If you are already registered with Accessibility Services, please be sure to get
 
 ***
 
-## External Resources
+## External Resources and Tutoring
 
 In addition to my email and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
+
+In addition, the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for Greek 101 students. The tutors (Rose K., Catherine O., and Anne-Catherine S.) have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. The workshop will run as an appointment-based service of 40-minute sessions, with the student and Peer Tutor working together to find a convenient time. **To set up an appointment with one of the tutors, please contact me and we'll set it up**!
 
 By the way, to test whether you’re reading the syllabus all the way through, please send me an email indicating your favorite uppercase Greek letter by 9:00am on Friday, September 3, 2021, with the subject line “Easy as PI! Nothing NU!” If you do so, you will receive five (5) extra credit points (see the [grading](/course_info/grading) page for the course grading structure).
 
